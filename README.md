@@ -9,7 +9,7 @@ https://public.tableau.com/app/profile/italo.vega/viz/DataAnalystJobAUCHCA/Dashb
 
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
-Check out the full analysis here: https://github.com/maverik0019/sql-project-data-jobs
+Check out the full analysis here: [[https://github.com/maverik0019/sql-project-data-jobs](https://github.com/maverik0019/project_sql?tab=readme-ov-file)](https://github.com/maverik0019/project_sql)
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
