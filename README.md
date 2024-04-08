@@ -5,7 +5,7 @@
 This project is entirely based on the free course offered by one of my favorite YouTubers in the Data Analyst world , "
 Luke Barousse" work on datanerd.tech and the collaborative course by Luke and Kelly Adams, I've conducted an in-depth analysis of Data Analyst jobs using SQL. In it, he created a course with different levels aimed at educating. I used this as a practical and real way to solve the daily question I face when showing up for work or when answering recruiters' inquiries about my salary expectations. This is based on the countries of my interest (Calgary, AB, Canada, Santiago, Chile, and Australia). Just to make it easier to visualize and understand and make it useful for me, and  anyone who wanted to use it, I decided with the databases generated to make an interactive dashboard in Tableau to share it with whoever wanted. Something simple and practical to review:.
 
-https://public.tableau.com/app/profile/italo.vega/viz/DataAnalystJobAUCHCA/Dashboard2?publish=yes 
+https://public.tableau.com/app/profile/italo.vega/viz/DataAnalystJobsCH-AU-CA/Dashboard1?publish=yes
 
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
