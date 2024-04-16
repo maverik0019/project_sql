@@ -7,6 +7,8 @@ Luke Barousse" work on datanerd.tech and the collaborative course by Luke and Ke
 
 https://public.tableau.com/app/profile/italo.vega/viz/DataAnalystJobsCH-AU-CA/Dashboard1?publish=yes
 
+![Top Paying Roles](images/Tableau(CH-AU-CA).png)
+
 📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
 
 Check out the full analysis here: [[https://github.com/maverik0019/sql-project-data-jobs](https://github.com/maverik0019/project_sql?tab=readme-ov-file)](https://github.com/maverik0019/project_sql)
